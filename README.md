@@ -16,7 +16,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Introduction
 The Task Manager API is a backend application developed with the Laravel framework, focusing on efficient task management through well-defined API endpoints. This project supports user registration, profile management, task creation, and categorization, all built on robust database relationships.
 
-# Key Features:
+## Key Features:
 User Registration and Authentication:
 
 Secure mechanisms for user registration and login, ensuring data privacy and individualized task management.
@@ -30,8 +30,8 @@ Category Management:
 
 Tasks can be categorized under multiple categories, allowing for flexible organization and retrieval.
 
-# Database Relations:
-One-to-One Relationship:
+## Database Relations:
+### One-to-One Relationship:
 User ↔ Profile:
 
 A user can have exactly one profile.
