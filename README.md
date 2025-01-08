@@ -39,3 +39,4 @@ The Profile model contains personal details and is linked to the User model thro
 
 
 
+![Diagram_Task_Manager_1](https://github.com/user-attachments/assets/4281a031-b2a3-4458-902a-ddb7f9bc36c1)
