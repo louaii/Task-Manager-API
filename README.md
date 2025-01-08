@@ -37,5 +37,5 @@ User ↔ Profile:
 A user can have exactly one profile.
 The Profile model contains personal details and is linked to the User model through the user_id foreign key.
 
-https://github.com/louaii/Task-Manager-API/blob/main/images/Diagram_Task_Manager_1.png
+
 
