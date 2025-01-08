@@ -47,3 +47,16 @@ A user can have one or many tasks.
 The Task model includes task-specific details and links back to the User model via the user_id foreign key.
 
 ![Diagram_Task_Manager_2](https://github.com/user-attachments/assets/8013e191-d85f-41a1-9dc4-d6ec15ec066a)
+
+### Many-to-Many Relationship:
+Task ↔ Categories:
+
+A task can belong to multiple categories, and a category can include multiple tasks.
+This relationship is facilitated by a pivot table category_task with foreign keys linking tasks and categories.
+
+![Diagram_Task_Manager_3](https://github.com/user-attachments/assets/ca15e8cd-21a2-40f7-bbd1-104a38d85dcb)
+
+###Full Diagram:
+
+![Full_Diagram](https://github.com/user-attachments/assets/a109f98e-ffcc-4bb2-86ac-cd47fa730149)
+
