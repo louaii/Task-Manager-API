@@ -37,6 +37,13 @@ User ↔ Profile:
 A user can have exactly one profile.
 The Profile model contains personal details and is linked to the User model through the user_id foreign key.
 
-
-
 ![Diagram_Task_Manager_1](https://github.com/user-attachments/assets/4281a031-b2a3-4458-902a-ddb7f9bc36c1)
+
+
+### One-to-Many Relationship:
+User ↔ Tasks:
+
+A user can have one or many tasks.
+The Task model includes task-specific details and links back to the User model via the user_id foreign key.
+
+![Diagram_Task_Manager_2](https://github.com/user-attachments/assets/8013e191-d85f-41a1-9dc4-d6ec15ec066a)
