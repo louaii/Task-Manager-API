@@ -56,7 +56,7 @@ This relationship is facilitated by a pivot table category_task with foreign key
 
 ![Diagram_Task_Manager_3](https://github.com/user-attachments/assets/ca15e8cd-21a2-40f7-bbd1-104a38d85dcb)
 
-###Full Diagram:
+### Diagram:
 
 ![Full_Diagram](https://github.com/user-attachments/assets/a109f98e-ffcc-4bb2-86ac-cd47fa730149)
 
